@@ -1,15 +1,29 @@
-# Moha Ramzy
+<a href="https://github.com/SafnasKaldeen">
+    <h1 align="center">👨🏼‍💻 Moha Ramzy</h1></a>
 
-> Final-Year Software Engineering Student | Full-Stack Web Developer | React Specialist
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer+%7C+Data+Engineer" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ramzyzarook/)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:ramzyzarook@gmail.com)
+<!-- Social icons section -->
+<div align="center">
+ 
+  <a href="https://www.linkedin.com/in/ramzyzarook/"> <img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/></a>
+ 
+  <a href="mailto:ramzyzarook@gmail.com"><img width="64" height="64" src="https://img.icons8.com/bubbles/50/new-post.png" alt="new-post"/></a>
+ 
 
----
+</div>
 
-## 🧑‍💻 About Me
+<br/>
 
-I'm **Moha Ramzy**, a passionate and self-driven **Software Engineering student** at IIT. I specialize in full-stack web development with a strong foundation in both frontend and backend technologies. I enjoy building responsive, scalable applications and solving real-world problems through code.
+<p align="center">
+  <a href="https://github.com/ramzyzarook">
+    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2025"/></a>
+</p>
+
+
+👋 I'm **Moha Ramzy**, a passionate and self-driven **Software Engineering student** at IIT. I specialize in full-stack web development with a strong foundation in both frontend and backend technologies. I enjoy building responsive, scalable applications and solving real-world problems through code.
 
 - 🌱  I specialize in 𝐑𝐞𝐚𝐜𝐭 and have solid experience with 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 development using Node.js, MongoDB, and Express, with additional exposure to Laravel, PHP, and SQL.
 - 👨‍💻 Open to internships, freelance, and full-time roles in software development
