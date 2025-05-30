@@ -11,7 +11,7 @@
 
 I'm **Moha Ramzy**, a passionate and self-driven **Software Engineering student** at IIT. I specialize in full-stack web development with a strong foundation in both frontend and backend technologies. I enjoy building responsive, scalable applications and solving real-world problems through code.
 
-- 🌱 Currently expanding skills in DevOps and scalable backend systems
+- 🌱  I specialize in 𝐑𝐞𝐚𝐜𝐭 and have solid experience with 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 development using Node.js, MongoDB, and Express, with additional exposure to Laravel, PHP, and SQL.
 - 👨‍💻 Open to internships, freelance, and full-time roles in software development
 - 🧠 Lifelong learner and active contributor to collaborative projects
 - 🎯 Interests: Web Development, Open Source, APIs, Software Design
@@ -69,6 +69,8 @@ A full-stack blogging application where users can share travel experiences, enha
   <img src="https://github-readme-stats.vercel.app/api?username=ramzyzarook&show_icons=true&theme=default&hide_title=true&count_private=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramzyzarook&theme=default" height="150" />
 </p>
+
+---
 
 ---
 
